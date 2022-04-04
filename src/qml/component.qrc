@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/qml">
+        <file>qrcode/qrious.js</file>
+        <file>qrcode/ZQrcodeImage.qml</file>
+        <file>ZImageReflectionA.qml</file>
+        <file>ZInnerShadow.qml</file>
+        <file>ZObject.qml</file>
+        <file>ZRollTextA.qml</file>
+        <file>ZRoundImageA.qml</file>
+        <file>animation/LoadingA.qml</file>
+    </qresource>
+</RCC>
